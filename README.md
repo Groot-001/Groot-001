@@ -10,18 +10,18 @@
 🔹 DevOps & CI/CD with GitHub Actions  
 
 ## 💼 Projects & Experience  
-✅ Built **React-based UI** for an **E-commerce platform**  
+✅ Built **React-based UI** for an **E-commerce platform** 
 ✅ Automated **CI/CD pipelines using GitHub Actions**  
-✅ Developed **Java-based mini projects using OOP principles**  
+✅ Developed **Java-based mini projects using OOP principles**
 
 ## 💞 Looking to Collaborate On  
-🔹 **Open-source projects in web development & automation**  
-🔹 **React.js & full-stack development**  
-🔹 **Internship & freelance opportunities**  
+🔹 Open-source projects in web development & automation  
+🔹 React.js & full-stack development  
+🔹 Internship & freelance opportunities  
 
 ## 📫 How to Reach Me  
-📩 **Email:** [Your Email]  
-💼 **LinkedIn:** [Your LinkedIn Profile]  
-🌐 **Portfolio:** [Your Portfolio Link]  
+📩 Email:pratiikpatel.001@gmail.com
+💼 LinkedIn:https://www.linkedin.com/feed/](https://www.linkedin.com/in/pratik-patel-4901451b6
+🌐 Portfolio:https://lighthearted-puffpuff-7dc1dd.netlify.app/ 
 
-⚡ **Fun Fact:** I love learning new technologies and turning ideas into reality!  
+⚡ Fun Fact: I love learning new technologies and turning ideas into reality!  
