@@ -21,7 +21,7 @@
 
 ## 📫 How to Reach Me  
 📩 Email:pratiikpatel.001@gmail.com
-💼 LinkedIn:https://www.linkedin.com/feed/](https://www.linkedin.com/in/pratik-patel-4901451b6
+💼 LinkedIn:https://www.linkedin.com/in/pratik-patel-4901451b6/
 🌐 Portfolio:https://lighthearted-puffpuff-7dc1dd.netlify.app/ 
 
 ⚡ Fun Fact: I love learning new technologies and turning ideas into reality!  
